@@ -1,1 +1,5 @@
-Crating a branch is quick and simple simple.
+<<<<<<< HEAD
+Crating a branch is quick and.
+=======
+Crating a branch is quick and.
+>>>>>>> dev
