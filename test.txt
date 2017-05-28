@@ -1,1 +1,2 @@
 Crating a branch is quick and.
+Merge.
